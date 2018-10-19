@@ -33,7 +33,7 @@ if __name__ == '__main__':
     
 #     objects=['Linsead','Perilla','Cotton','Sesame','Camellia','Olive','Beef','Hog']
 #     titles = ['Specific Gravity','Freezing Point','Iodine Value','Saponification value','Major Fatty Acids']
-#     type=[0,0,0,0,0]
+#     type=[0,0,0,0,1]
 #     X = np.loadtxt("data/oils.txt", dtype='str', delimiter='\n')
 
 
